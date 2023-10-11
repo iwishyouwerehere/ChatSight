@@ -16,4 +16,6 @@ This project aims to provide real-time analytics for chat data. It uses Natural 
 - NLTK
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository
+2. Change the chat transcript directory
+3. Run main.py
