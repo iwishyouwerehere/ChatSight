@@ -1,7 +1,7 @@
 
 # Real-time Chat Analytics Dashboard
 https://gyazo.com/918a70b437504be67e800c92b2aac9bd
-![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.imgur.com/Zx14Kmr.gif))
+![hippo](https://i.imgur.com/Zx14Kmr.gif)
 
 ## Overview
 This project aims to provide real-time analytics for chat data. It uses Natural Language Processing (NLP) for sentiment analysis and topic identification, and Matplotlib for data visualization. The analytics are displayed in a real-time dashboard that updates as new chat data is processed.
